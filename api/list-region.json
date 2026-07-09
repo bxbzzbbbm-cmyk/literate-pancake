@@ -1,0 +1,200 @@
+{
+  "regions": [
+    {
+      "code": "us-east-1",
+      "name": "US East (N. Virginia)",
+      "azs": 6,
+      "geography": "United States of America",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "us-east-2",
+      "name": "US East (Ohio)",
+      "azs": 3,
+      "geography": "United States of America",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "us-west-1",
+      "name": "US West (N. California)",
+      "azs": 3,
+      "geography": "United States of America",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "us-west-2",
+      "name": "US West (Oregon)",
+      "azs": 4,
+      "geography": "United States of America",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "af-south-1",
+      "name": "Africa (Cape Town)",
+      "azs": 3,
+      "geography": "South Africa",
+      "opt_in": "Required"
+    },
+    {
+      "code": "ap-east-1",
+      "name": "Asia Pacific (Hong Kong)",
+      "azs": 3,
+      "geography": "Hong Kong",
+      "opt_in": "Required"
+    },
+    {
+      "code": "ap-south-2",
+      "name": "Asia Pacific (Hyderabad)",
+      "azs": 3,
+      "geography": "India",
+      "opt_in": "Required"
+    },
+    {
+      "code": "ap-southeast-3",
+      "name": "Asia Pacific (Jakarta)",
+      "azs": 3,
+      "geography": "Indonesia",
+      "opt_in": "Required"
+    },
+    {
+      "code": "ap-southeast-5",
+      "name": "Asia Pacific (Malaysia)",
+      "azs": 3,
+      "geography": "Malaysia",
+      "opt_in": "Required"
+    },
+    {
+      "code": "ap-southeast-4",
+      "name": "Asia Pacific (Melbourne)",
+      "azs": 3,
+      "geography": "Australia",
+      "opt_in": "Required"
+    },
+    {
+      "code": "ap-south-1",
+      "name": "Asia Pacific (Mumbai)",
+      "azs": 3,
+      "geography": "India",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "ap-southeast-1",
+      "name": "Asia Pacific (Singapore)",
+      "azs": 3,
+      "geography": "Singapore",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "ap-southeast-2",
+      "name": "Asia Pacific (Sydney)",
+      "azs": 3,
+      "geography": "Australia",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "ap-northeast-1",
+      "name": "Asia Pacific (Tokyo)",
+      "azs": 4,
+      "geography": "Japan",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "ca-central-1",
+      "name": "Canada (Central)",
+      "azs": 3,
+      "geography": "Canada",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "eu-central-1",
+      "name": "Europe (Frankfurt)",
+      "azs": 3,
+      "geography": "Germany",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "eu-west-1",
+      "name": "Europe (Ireland)",
+      "azs": 3,
+      "geography": "Ireland",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "eu-west-2",
+      "name": "Europe (London)",
+      "azs": 3,
+      "geography": "United Kingdom",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "eu-west-3",
+      "name": "Europe (Paris)",
+      "azs": 3,
+      "geography": "France",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "eu-north-1",
+      "name": "Europe (Stockholm)",
+      "azs": 3,
+      "geography": "Sweden",
+      "opt_in": "Not required"
+    },
+    {
+      "code": "eu-south-1",
+      "name": "Europe (Milan)",
+      "azs": 3,
+      "geography": "Italy",
+      "opt_in": "Required"
+    },
+    {
+      "code": "eu-south-2",
+      "name": "Europe (Spain)",
+      "azs": 3,
+      "geography": "Spain",
+      "opt_in": "Required"
+    },
+    {
+      "code": "eu-central-2",
+      "name": "Europe (Zurich)",
+      "azs": 3,
+      "geography": "Switzerland",
+      "opt_in": "Required"
+    },
+    {
+      "code": "il-central-1",
+      "name": "Israel (Tel Aviv)",
+      "azs": 3,
+      "geography": "Israel",
+      "opt_in": "Required"
+    },
+    {
+      "code": "mx-central-1",
+      "name": "Mexico (Central)",
+      "azs": 3,
+      "geography": "Mexico",
+      "opt_in": "Required"
+    },
+    {
+      "code": "me-south-1",
+      "name": "Middle East (Bahrain)",
+      "azs": 3,
+      "geography": "Bahrain",
+      "opt_in": "Required"
+    },
+    {
+      "code": "me-central-1",
+      "name": "Middle East (UAE)",
+      "azs": 3,
+      "geography": "United Arab Emirates",
+      "opt_in": "Required"
+    },
+    {
+      "code": "sa-east-1",
+      "name": "South America (São Paulo)",
+      "azs": 3,
+      "geography": "Brazil",
+      "opt_in": "Required"
+    }
+  ]
+}
