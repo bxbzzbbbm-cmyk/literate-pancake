@@ -1,0 +1,7 @@
+{
+  "distros": [
+    "alpine",
+    "ubuntu",
+    "debian"
+  ]
+}
